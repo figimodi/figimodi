@@ -1,7 +1,10 @@
 ### Hello everybody 👋
 - 🧑‍🎓 Student at Politecnico di Torino
 - 🤖 Currently working on a deep neural network for action recognition (repo AML-egovision)
-- ♟ Chess amatour 
+- ♟ Chess amatour
+
+[![Figimodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=figimodi)](https://github.com/figimodi/github-readme-stats)
+
 <!--
 **figimodi/figimodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
