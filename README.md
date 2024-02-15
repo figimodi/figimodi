@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello everybody 👋
+- 🧑‍🎓 Student at Politecnico di Torino
+- 🤖 Currently working on a deep neural network for action recognition (repo AML-egovision)
+- ♟ Chess amatour 
 <!--
 **figimodi/figimodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
