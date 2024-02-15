@@ -5,6 +5,7 @@
 
 [![Figimodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=figimodi&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/figimodi/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figimodi&layout=compact)
 
 <!--
 **figimodi/figimodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
