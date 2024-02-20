@@ -3,11 +3,11 @@
 - 🤖 Currently working on a deep neural network for action recognition (repo AML-egovision)
 - ♟ Chess amatour
 
+<!--
 [![Figimodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=figimodi&rank_icon=github&show_icons=true&include_all_commits=true)](https://github.com/figimodi/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figimodi&layout=compact&)
 
-<!--
 [![Figimodi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=figimodi)](https://github.com/figimodi/github-readme-stats)
 -->
 
