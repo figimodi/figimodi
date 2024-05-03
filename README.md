@@ -12,9 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,19 +55,17 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ████████████████████░░░░░   81.67 % 
-YAML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Python                   2 hrs 15 mins       █████████████████████████   98.75 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Advanced Machine Learning58 mins             ██████████████████░░░░░░░   72.35 % 
-AML-egovision            19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Machine Learning in Appli2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+AML-egovision            2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 01:16:24 UTC
+ Last Updated on 03/05/2024 01:19:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
