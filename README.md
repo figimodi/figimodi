@@ -58,19 +58,16 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████████░░░░░░░░░░░░   52.53 % 
-YAML                     45 mins             █████████░░░░░░░░░░░░░░░░   35.88 % 
-Git Config               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AM04                     1 hr 43 mins        █████████████████████░░░░   82.36 % 
-AML-egovision            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +87,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 01:27:53 UTC
+ Last Updated on 15/08/2024 01:23:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
