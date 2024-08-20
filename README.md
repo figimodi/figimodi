@@ -23,8 +23,6 @@
 
 > 📦 4.3 MB Used in GitHub's Storage 
  > 
-> 🏆 224 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -58,16 +56,20 @@ Sunday                   27 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 59 mins        ████████████████████░░░░░   79.02 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AML-egovision            2 hrs 22 mins       ███████████████████████░░   93.88 % 
+Advanced Machine Learning9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +89,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 01:35:37 UTC
+ Last Updated on 20/08/2024 01:26:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
