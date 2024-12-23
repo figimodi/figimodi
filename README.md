@@ -15,8 +15,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -58,21 +56,16 @@ Sunday                   40 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.49 % 
-Python                   1 hr 6 mins         ████████████░░░░░░░░░░░░░   46.61 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-up2030-sr-temperature    2 hrs 22 mins       █████████████████████████   99.98 % 
-greco                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +85,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 01:51:21 UTC
+ Last Updated on 23/12/2024 01:47:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
