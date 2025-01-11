@@ -15,8 +15,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%209%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -87,7 +85,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 02:12:19 UTC
+ Last Updated on 11/01/2025 01:44:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
