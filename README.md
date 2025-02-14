@@ -15,7 +15,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,16 +58,23 @@ Sunday                   40 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 hrs 3 mins        ███████████████████░░░░░░   77.80 % 
+Bash                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+transcript               4 hrs 7 mins        █████████████░░░░░░░░░░░░   53.03 % 
+lambda                   2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+AWS                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +94,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 01:43:52 UTC
+ Last Updated on 14/02/2025 01:43:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
