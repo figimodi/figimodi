@@ -1,9 +1,5 @@
 ### Hello everybody 👋
 - 🧑‍🎓 Student at Politecnico di Torino
-- 🤖 Currently working on:
-  - A multimodal deep neural network for egocentric action recognition [(AML-egovision)](https://github.com/figimodi/AML-egovision)
-  - A super-resolution deep neural network for enhancing satellite images of surface temperatures
-  - Image harmonization for Additive Manufacturing defect detection [(AM04)](https://github.com/figimodi/AM04)
 - ♟ Chess amatour (figimodi on chess.com)
 
 <!--
