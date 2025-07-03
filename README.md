@@ -1,6 +1,7 @@
 ### Hello everybody 👋
-- 🧑‍🎓 Student at Politecnico di Torino
-- ♟ Chess amatour (figimodi on chess.com)
+- 👨🏻‍💻 Consultant @ Storm Reply
+- ♟️ Chess Player
+- 🔭 Star Gazing
 
 <!--
 [![Figimodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=figimodi&rank_icon=github&show_icons=true&include_all_commits=true)](https://github.com/figimodi/github-readme-stats)
