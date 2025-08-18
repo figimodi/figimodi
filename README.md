@@ -20,8 +20,6 @@
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -55,18 +53,16 @@ Sunday                   40 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████████████░░░░   85.28 % 
-Git                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-src-sw00570-country-cc-ge1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +82,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 02:06:46 UTC
+ Last Updated on 18/08/2025 02:13:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
