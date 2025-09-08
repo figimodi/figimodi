@@ -55,19 +55,16 @@ Sunday                   40 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               7 hrs 55 mins       █████████████████████████   98.93 % 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-src-sw00570-country-cc-ge8 hrs               █████████████████████████   99.92 % 
-src-sw00570-country-cc-ge0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +84,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 01:51:00 UTC
+ Last Updated on 08/09/2025 01:56:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
