@@ -20,7 +20,7 @@
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,23 +55,16 @@ Sunday                   44 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Terraform                4 hrs 57 mins       ███████████████░░░░░░░░░░   61.15 % 
-Bash                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-HCL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-enel-road-surface-infra  6 hrs 6 mins        ███████████████████░░░░░░   75.27 % 
-geco-airesearch-infra    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-enel-road-surface-ml     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-destine                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 02:09:16 UTC
+ Last Updated on 01/01/2026 02:26:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
