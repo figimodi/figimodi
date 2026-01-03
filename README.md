@@ -12,8 +12,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,45 +26,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                644 commits         █████████████░░░░░░░░░░░░   52.40 % 
-🌃 Evening                321 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌙 Night                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Tuesday                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 335 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Friday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -84,7 +43,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 02:10:50 UTC
+ Last Updated on 03/01/2026 02:04:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
