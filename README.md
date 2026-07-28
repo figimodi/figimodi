@@ -12,7 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,6 +76,29 @@ first-project            0 secs              ░░░░░░░░░░░�
 Mac                      14 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 6 mins (90.17%)
+
+✍️ 3,678 lines written by AI, 492 lines written by hand (88.2% AI-written)
+
+🔤 9,289,477 Input Tokens, 320,386 Output Tokens
+
+💵 $53.81 Estimated AI Cost This Week
+
+🧠 214 AI Sessions, 393 AI Prompts
+
+GPT                      5,044 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.2% of written lines came from AI
+📚 Verbose Prompter — average 5,921 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 26.71% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -91,7 +116,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:48:13 UTC
+ Last Updated on 28/07/2026 03:19:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
