@@ -12,6 +12,10 @@
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs%2010%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -53,45 +57,48 @@ Sunday                   30 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
-Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-TypeScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-JSON                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-SQL                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Python                   4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+TypeScript               2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+CSV                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-Opencode Cli             9 hrs 22 mins       █████████████████░░░░░░░░   69.10 % 
-VS Code                  4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
+Opencode Cli             10 hrs 43 mins      ██████████████████░░░░░░░   72.74 % 
+VS Code                  4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 
 🐱‍💻 Projects: 
-GECO                     12 hrs 34 mins      ███████████████████████░░   92.67 % 
-chess-clock              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+GECO                     13 hrs 51 mins      ████████████████████████░   94.00 % 
+chess-clock              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+geco-airesearch-infra    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+geco-asresearch-xml-parsi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+geco-airesearch-networkin0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      13 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (91.48%)
+⏱ AI Coding Time: 12 hrs 54 mins (87.55%)
 
-✍️ 4,290 lines written by AI, 14,653 lines written by hand (22.65% AI-written)
+✍️ 5,732 lines written by AI, 14,667 lines written by hand (28.1% AI-written)
 
-🔤 6,693,795 Input Tokens, 332,982 Output Tokens
+🔤 4,801,306 Input Tokens, 279,614 Output Tokens
 
-💵 $55.70 Estimated AI Cost This Week
+💵 $54.49 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 263 AI Prompts
+🧠 45 AI Sessions, 189 AI Prompts
 
-GPT                      5,608 lines         █████████████████████████   100.00 % 
+GPT                      6,723 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.65% of written lines came from AI
-📚 Verbose Prompter — average 3,481 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 73.51% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.1% of written lines came from AI
+📚 Verbose Prompter — average 1,619 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 94.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +118,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:27:18 UTC
+ Last Updated on 30/07/2026 03:00:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
