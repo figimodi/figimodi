@@ -12,9 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,46 +57,46 @@ Sunday                   30 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   6 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
-TypeScript               4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+TypeScript               5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Python                   4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+JSON                     2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Terraform                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Opencode Cli             13 hrs 14 mins      ███████████████████░░░░░░   77.45 % 
-VS Code                  3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Opencode Cli             11 hrs 39 mins      █████████████████░░░░░░░░   69.45 % 
+VS Code                  5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.55 % 
 
 🐱‍💻 Projects: 
-GECO                     16 hrs 24 mins      ████████████████████████░   95.87 % 
-chess-clock              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+GECO                     16 hrs 4 mins       ████████████████████████░   95.79 % 
+chess-clock              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 💻 Operating System: 
-Mac                      17 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 10 mins (94.55%)
+⏱ AI Coding Time: 14 hrs 58 mins (89.23%)
 
-✍️ 11,382 lines written by AI, 2,867 lines written by hand (79.88% AI-written)
+✍️ 2,228 lines written by AI, 2,506 lines written by hand (47.06% AI-written)
 
-🔤 13,507,346 Input Tokens, 438,702 Output Tokens
+🔤 15,811,427 Input Tokens, 494,818 Output Tokens
 
-💵 $77.72 Estimated AI Cost This Week
+💵 $108.54 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 234 AI Prompts
+🧠 21 AI Sessions, 292 AI Prompts
 
-GPT                      13,859 lines        █████████████████████████   99.10 % 
-Deepseek                 126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+GPT                      2,455 lines         ████████████████████████░   95.12 % 
+Deepseek                 126 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.88% of written lines came from AI
-📄 Detailed Prompter — average 1,086 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 17.87% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.06% of written lines came from AI
+📚 Verbose Prompter — average 1,532 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 50.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 02:36:14 UTC
+ Last Updated on 13/08/2026 02:37:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
