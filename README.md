@@ -33,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌆 Daytime                513 commits         █████████████░░░░░░░░░░░░   51.35 % 
-🌃 Evening                278 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-🌙 Night                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌞 Morning                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌆 Daytime                364 commits         ██████████████░░░░░░░░░░░   55.40 % 
+🌃 Evening                198 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌙 Night                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   255 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Tuesday                  118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Wednesday                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Thursday                 228 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Friday                   184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Saturday                 60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Sunday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Monday                   159 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Tuesday                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Thursday                 179 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Friday                   149 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 
@@ -57,44 +57,22 @@ Sunday                   30 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-JSON                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 12 mins       ██████████████░░░░░░░░░░░   55.21 % 
-VS Code                  1 hr 47 mins        ███████████░░░░░░░░░░░░░░   44.79 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GECO                     3 hrs 59 mins       █████████████████████████   100.00 % 
+GECO                     21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (74.04%)
-
-✍️ 731 lines written by AI, 43,005 lines written by hand (1.67% AI-written)
-
-🔤 3,460,125 Input Tokens, 92,707 Output Tokens
-
-💵 $33.72 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 34 AI Prompts
-
-GPT                      736 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.67% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.32% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +92,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:53:25 UTC
+ Last Updated on 22/08/2026 01:41:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
