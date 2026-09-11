@@ -12,9 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C656%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C659%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,44 +57,44 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Markdown                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Terraform                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Python                   9 hrs               ███████████░░░░░░░░░░░░░░   44.04 % 
+TypeScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Markdown                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Terraform                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Opencode Cli             15 hrs 7 mins       █████████████████░░░░░░░░   68.46 % 
-VS Code                  6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Opencode Cli             14 hrs 25 mins      ██████████████████░░░░░░░   70.46 % 
+VS Code                  6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 
 🐱‍💻 Projects: 
-GECO                     22 hrs 5 mins       █████████████████████████   100.00 % 
+GECO                     20 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 33 mins (83.97%)
+⏱ AI Coding Time: 18 hrs 6 mins (88.46%)
 
-✍️ 1,733 lines written by AI, 456 lines written by hand (79.17% AI-written)
+✍️ 1,980 lines written by AI, 447 lines written by hand (81.58% AI-written)
 
-🔤 10,516,561 Input Tokens, 666,914 Output Tokens
+🔤 8,841,770 Input Tokens, 593,286 Output Tokens
 
-💵 $85.22 Estimated AI Cost This Week
+💵 $116.54 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 312 AI Prompts
+🧠 23 AI Sessions, 311 AI Prompts
 
-GPT                      2,791 lines         █████████████████████████   100.00 % 
+GPT                      3,734 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.17% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
+🤖 AI-Driven — 81.58% of written lines came from AI
+📄 Detailed Prompter — average 1,196 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 18.11% of changed lines were hand-edited
+🚀 High AI Trust — 13.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 04:13:27 UTC
+ Last Updated on 11/09/2026 04:11:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
