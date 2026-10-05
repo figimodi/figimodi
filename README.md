@@ -33,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-🌆 Daytime                376 commits         ██████████████░░░░░░░░░░░   55.87 % 
-🌃 Evening                198 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌙 Night                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌆 Daytime                533 commits         █████████████░░░░░░░░░░░░   50.81 % 
+🌃 Evening                286 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+🌙 Night                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   159 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Tuesday                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Wednesday                87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Thursday                 179 commits         ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Friday                   157 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Monday                   258 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Thursday                 252 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Saturday                 60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Sunday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -57,31 +57,31 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Markdown                 11 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.11 % 
-JSON                     6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-TypeScript               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Terraform                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Markdown                 12 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Python                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+JSON                     6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+TypeScript               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Terraform                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-Opencode Cli             22 hrs 49 mins      ███████████████░░░░░░░░░░   61.94 % 
-VS Code                  14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.06 % 
+Opencode Cli             22 hrs 49 mins      ███████████████░░░░░░░░░░   60.25 % 
+VS Code                  15 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
 
 🐱‍💻 Projects: 
-GECO                     30 hrs 31 mins      █████████████████████░░░░   82.84 % 
-beer                     6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-GECO-AI                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+GECO                     30 hrs 31 mins      ████████████████████░░░░░   80.58 % 
+beer                     7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+GECO-AI                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      36 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 27 mins (77.26%)
+⏱ AI Coding Time: 28 hrs 27 mins (75.15%)
 
-✍️ 9,204 lines written by AI, 549 lines written by hand (94.37% AI-written)
+✍️ 9,204 lines written by AI, 578 lines written by hand (94.09% AI-written)
 
 🔤 13,624,308 Input Tokens, 1,162,190 Output Tokens
 
@@ -93,10 +93,10 @@ GPT                      10,626 lines        ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.37% of written lines came from AI
+🤖 AI-Driven — 94.09% of written lines came from AI
 📄 Detailed Prompter — average 1,117 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.4% of changed lines were hand-edited
+🚀 High AI Trust — 5.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 05:27:57 UTC
+ Last Updated on 05/10/2026 05:11:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
