@@ -12,9 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-368%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,48 +57,48 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   6 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Markdown                 5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Terraform                4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Python                   6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Markdown                 5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+JSON                     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+TypeScript               4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Terraform                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Opencode Cli             16 hrs 4 mins       ████████████████░░░░░░░░░   65.40 % 
-VS Code                  7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-OpenCode                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Opencode Cli             14 hrs 15 mins      ███████████████░░░░░░░░░░   58.91 % 
+VS Code                  8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
+OpenCode                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-GECO                     24 hrs 33 mins      █████████████████████████   99.99 % 
+GECO                     24 hrs 11 mins      █████████████████████████   99.99 % 
 bagna-naso               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      24 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 4 mins (93.92%)
+⏱ AI Coding Time: 22 hrs 55 mins (94.76%)
 
-✍️ 3,820 lines written by AI, 10 lines written by hand (99.74% AI-written)
+✍️ 3,319 lines written by AI, 43 lines written by hand (98.72% AI-written)
 
-🔤 9,346,538 Input Tokens, 893,771 Output Tokens
+🔤 8,639,990 Input Tokens, 794,559 Output Tokens
 
-💵 $139.82 Estimated AI Cost This Week
+💵 $102.07 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 390 AI Prompts
+🧠 29 AI Sessions, 361 AI Prompts
 
-GPT                      4,804 lines         █████████████████████████   99.19 % 
-Haiku                    39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+GPT                      4,124 lines         █████████████████████████   99.06 % 
+Haiku                    39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📄 Detailed Prompter — average 753 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+🤖 AI-Driven — 98.72% of written lines came from AI
+📄 Detailed Prompter — average 775 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 04:17:55 UTC
+ Last Updated on 22/10/2026 04:17:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
