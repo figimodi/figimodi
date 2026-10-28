@@ -12,9 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C840%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,49 +57,49 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-TypeScript               7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-JSON                     6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Markdown                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   10 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.16 % 
+JSON                     5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+TypeScript               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Markdown                 3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+TeX                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.65 % 
-Codex Vscode             8 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Opencode Cli             7 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-OpenCode                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Claude Code              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Codex Vscode             12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
+VS Code                  9 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+Opencode Cli             4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Claude Code              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+OpenCode                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🐱‍💻 Projects: 
-GECO                     27 hrs 46 mins      █████████████████████████   98.22 % 
-bagna-naso               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+GECO                     26 hrs 16 mins      ████████████████████████░   96.15 % 
+bagna-naso               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Mac                      28 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 25 mins (97.0%)
+⏱ AI Coding Time: 26 hrs 24 mins (96.65%)
 
-✍️ 3,736 lines written by AI, 103 lines written by hand (97.32% AI-written)
+✍️ 4,541 lines written by AI, 101 lines written by hand (97.82% AI-written)
 
-🔤 10,411,288 Input Tokens, 1,027,385 Output Tokens
+🔤 9,321,998 Input Tokens, 1,050,397 Output Tokens
 
-💵 $92.13 Estimated AI Cost This Week
+💵 $102.88 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 449 AI Prompts
+🧠 15 AI Sessions, 439 AI Prompts
 
-GPT                      5,400 lines         █████████████████████████   98.99 % 
-Haiku                    55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+GPT                      6,619 lines         █████████████████████████   98.22 % 
+Haiku                    120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.32% of written lines came from AI
-📄 Detailed Prompter — average 1,143 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🚀 High AI Trust — 6.11% of changed lines were hand-edited
+🤖 AI-Driven — 97.82% of written lines came from AI
+📄 Detailed Prompter — average 990 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🚀 High AI Trust — 5.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 04:37:52 UTC
+ Last Updated on 28/10/2026 05:10:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
