@@ -57,48 +57,46 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   12 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.30 % 
-TypeScript               4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Markdown                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JSON                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-TeX                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python                   13 hrs 34 mins      █████████████░░░░░░░░░░░░   52.28 % 
+Markdown                 3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TypeScript               3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+JSON                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+TeX                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 2 mins       ██████████████░░░░░░░░░░░   56.57 % 
-VS Code                  8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Opencode Cli             1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Claude Code              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Codex Vscode             15 hrs 46 mins      ███████████████░░░░░░░░░░   60.72 % 
+VS Code                  9 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
+Claude Code              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🐱‍💻 Projects: 
-GECO                     25 hrs 18 mins      ████████████████████████░   96.00 % 
-bagna-naso               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+GECO                     24 hrs 55 mins      ████████████████████████░   95.95 % 
+bagna-naso               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Mac                      26 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 25 mins (96.47%)
+⏱ AI Coding Time: 25 hrs 20 mins (97.56%)
 
-✍️ 5,609 lines written by AI, 231 lines written by hand (96.04% AI-written)
+✍️ 6,463 lines written by AI, 649 lines written by hand (90.87% AI-written)
 
-🔤 9,824,370 Input Tokens, 1,139,076 Output Tokens
+🔤 9,394,462 Input Tokens, 1,137,178 Output Tokens
 
-💵 $107.81 Estimated AI Cost This Week
+💵 $95.12 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 458 AI Prompts
+🧠 15 AI Sessions, 432 AI Prompts
 
-GPT                      8,305 lines         █████████████████████████   98.58 % 
-Haiku                    120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      8,447 lines         █████████████████████████   99.05 % 
+Haiku                    81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.04% of written lines came from AI
-📄 Detailed Prompter — average 1,171 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
-🚀 High AI Trust — 6.68% of changed lines were hand-edited
+🤖 AI-Driven — 90.87% of written lines came from AI
+📄 Detailed Prompter — average 600 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🚀 High AI Trust — 10.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +116,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/figimodi/figimodi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 05:21:46 UTC
+ Last Updated on 30/10/2026 05:22:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
